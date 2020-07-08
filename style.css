@@ -166,3 +166,15 @@ footer{
 #P{
     padding-bottom: 20px;
 }
+.button3{
+    text-decoration: none;
+    color: azure;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 700px;
+    background-image: linear-gradient(45deg, yellow, lightsalmon);
+    margin-left: 500px;
+}
+.P2{
+    padding-top: 100px;
+}
